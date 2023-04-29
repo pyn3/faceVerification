@@ -1,5 +1,6 @@
 *.csv
 *.pth
+*.tar.gz
 lfw-py/
 lfw*
 test/
@@ -14,5 +15,14 @@ digiFace1M/
 ChatGPT_generated.ipynb
 large_prepared_data/
 view
+Dataset/
+Moji/
+frame_images_DB/
+Dataset/
+.idea/
+IMG_1160.MOV
+
+crop_face_ds/
+crop_face_ds2/
 
 mobile_network_with_triplet_digiFace-Copy1.ipynb
